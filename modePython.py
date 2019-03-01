@@ -2,7 +2,7 @@
 This program was created as a part of the COP 1000 class I was taking.
 Simply put, it takes numbers the user inputs, and calculates the mode of them.
 
-Created By: Austin Garrett
+Created By: Austin Garrett (MetaRollover)
 '''
 
 
